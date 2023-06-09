@@ -8,6 +8,8 @@ namespace ternary
 {
     internal class evenorodd
     {
+        //WAP to accept a number from user & find number is even or odd
+
         static void Main(string[] args)
         {
             int num;
